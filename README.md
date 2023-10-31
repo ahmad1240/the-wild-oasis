@@ -1,6 +1,8 @@
 # The Wild Oasis
 
-The main project is on Vite + React Developed by Ahmad
+The main project is on Vite + React
+Built with React Query and Supabase.
+Developed by Ahmad
 
 Currently, two official plugins are available:
 
