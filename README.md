@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-The main project is on Vite + React
+The main project is on Vite + React Developed by Ahmad
 
 Currently, two official plugins are available:
 
